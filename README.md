@@ -1,5 +1,5 @@
 # barbearias
-Projeto FSW Barber
+Projeto FSW Barber por Geisila Costa
 Este é um projeto de aplicação web desenvolvido com Next.js e React, que parece ser uma plataforma para barbearias. O projeto inclui uma página de barbearias que lista as barbearias cadastradas com base em parâmetros de busca.
 
 Componentes
